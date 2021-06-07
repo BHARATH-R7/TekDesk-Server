@@ -62,7 +62,7 @@ namespace AngularCaseStudy
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/Prod/swagger/v1/swagger.json", "AngularCaseStudy v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "AngularCaseStudy v1"));
             }
 
             app.UseHttpsRedirection();
