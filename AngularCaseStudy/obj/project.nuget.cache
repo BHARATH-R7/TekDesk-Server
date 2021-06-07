@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UWepFcA4zXgkZtV7jJjVfIe02pILgKYaXoxFTSVMUpKBCn8JhvfV+0gSq5oHDun/P2TBeoGbLsBHTV43p7LBig==",
+  "dgSpecHash": "Lpq9/TTZ1iM7f6lgkroO8RNcuxjnp0yrOSMbnTOsbQttmkvW/EgyM9TxPnM66wn71X1sAoUe0l3apYigxZpFUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\imbha\\source\\repos\\AngularCaseStudy\\TekDesk-Dev\\AngularCaseStudy\\AngularCaseStudy.csproj",
+  "projectFilePath": "C:\\Users\\imbha\\source\\repos\\AngularCaseStudy\\AngularCaseStudy\\AngularCaseStudy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\imbha\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\imbha\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
